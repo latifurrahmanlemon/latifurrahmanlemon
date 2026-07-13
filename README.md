@@ -1,85 +1,156 @@
-<h1 align="center">Hi 👋, I'm Latifur Rahman</h1>
-<h3 align="center">Senior Backend Engineer | Laravel & PHP Specialist | Cloud & AI Integration</h3>
+<!-- ============ HEADER BANNER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:5865F2,100:00d4ff&height=210&section=header&text=Latifur%20Rahman&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20Engineer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=56&descSize=18" width="100%"/>
+
+<!-- ============ TYPING ANIMATION ============ -->
+<p align="center">
+  <a href="https://latifur.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;6%2B+Years+of+Engineering+Excellence;Laravel+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+AWS;AI+%2F+LLM+Integration+in+Production;Tech+Lead+%7C+SaaS+Builder+%7C+Problem+Solver" alt="Typing Animation" />
+  </a>
+</p>
+
+<!-- ============ QUICK LINKS ============ -->
+<p align="center">
+  <a href="https://latifur.com"><img src="https://img.shields.io/badge/🌐_Portfolio-latifur.com-00d4ff?style=for-the-badge&labelColor=1a1b27" /></a>
+  <a href="https://www.linkedin.com/in/latifurrlemon/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
+  <a href="mailto:latifur.tech@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Software+Engineer+%40+BdREN;6%2B+Years+of+Backend+Engineering;Laravel+%7C+PostgreSQL+%7C+Docker+%7C+AWS;Building+Scalable+SaaS+Products" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=latifurrahmanlemon&label=Profile+Views&color=00d4ff&style=flat-square&labelColor=1a1b27" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 I'm a **Software Engineer at BdREN** (Bangladesh Research and Education Network), Dhaka
-- 💼 **6+ years** of backend engineering experience at a senior / tech-lead level
-- 🚀 I build scalable systems with **Laravel/PHP**, **PostgreSQL**, **Docker**, and cloud infra
-- 🤖 Production experience integrating **AI/LLM** — chat assistants & AI-powered assessment systems
-- 🌱 Currently exploring **multi-platform SaaS products** across edtech, healthtech & agritech
-- 🏆 Robotics competitor: **IIT Kanpur Techkriti**, **IIT Bombay Techfest**, **ACM-ICPC Asia Dhaka Regional**
-- 📝 Author of **2 IEEE conference papers** (STI 2020 & STI 2021)
-- 🌐 Website: **[latifur.com](https://latifur.com)**
-- 📫 Open to **Senior Backend Engineer / Tech Lead / CTO-track** roles (Remote / Malaysia)
+> **Senior Backend Engineer** with **6+ years** of experience designing and shipping scalable, production-grade systems — currently a **Software Engineer at [BdREN](https://www.bdren.net.bd/)** (Bangladesh Research and Education Network), Dhaka 🇧🇩
+
+- ⚡ Architecting **large-scale, multi-platform SaaS systems** — Laravel backends, Next.js frontends, real-time Socket.IO services & Flutter mobile apps
+- 🤖 Shipped **production AI/LLM features** — intelligent chat assistants & AI-powered assessment systems
+- ☁️ Deep hands-on experience in **cloud infrastructure & security** — AWS, Google Cloud, DigitalOcean, Docker, Nginx
+- 📄 Published researcher — **2× IEEE conference papers** (STI 2020 & STI 2021)
+- 🏆 National & international **robotics + competitive programming** background
+- 🎯 Passionate about building products in **edtech, healthtech & agritech**
+- 💼 Open to **Senior Backend / Tech Lead / CTO-track** roles — Remote 🌍
+
+<br/>
+
+<table>
+  <tr>
+    <td><b>🏢 Current</b></td>
+    <td>Software Engineer @ <b>BdREN</b></td>
+  </tr>
+  <tr>
+    <td><b>📍 Location</b></td>
+    <td>Dhaka, Bangladesh</td>
+  </tr>
+  <tr>
+    <td><b>🔭 Focus</b></td>
+    <td>Scalable SaaS platforms & AI-powered systems</td>
+  </tr>
+  <tr>
+    <td><b>💬 Ask me about</b></td>
+    <td>Laravel, PostgreSQL, System Design, Docker, AWS, LLM Integration</td>
+  </tr>
+  <tr>
+    <td><b>📫 Reach me</b></td>
+    <td><a href="mailto:latifur.tech@gmail.com">latifur.tech@gmail.com</a></td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
 
-**Databases & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nextjs,react,flutter,dart&theme=dark" />
 
-**Tools & Realtime**
-<p>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+**Databases & Caching**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,linux,ubuntu,git,github&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,tailwind,nodejs,bash&theme=dark" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=latifurrahmanlemon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4ff&icon_color=5865F2&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latifurrahmanlemon&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4ff&fire=5865F2&currStreakLabel=00d4ff" height="170" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifurrahmanlemon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4ff&langs_count=8" height="150" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=latifurrahmanlemon&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
 
----
-
-### 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://latifur.com"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=latifurrahmanlemon&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d4ff&line=5865F2&point=ffffff" width="95%" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6f42c1&style=flat" alt="Profile Views" />
-</p>
+## 🏆 Achievements & Recognition
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🤖</h3>
+      <b>Robotics Competitions</b><br/>
+      <sub>IIT Kanpur Techkriti<br/>IIT Bombay Techfest</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>💡</h3>
+      <b>Competitive Programming</b><br/>
+      <sub>ACM-ICPC<br/>Asia Dhaka Regional</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>📄</h3>
+      <b>Published Researcher</b><br/>
+      <sub>2× IEEE Papers<br/>(STI 2020 & STI 2021)</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/latifurrlemon/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://latifur.com">
+    <img src="https://img.shields.io/badge/Website-latifur.com-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:latifur.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/latifurrahmanlemon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <b>💼 Open to Senior Backend Engineer • Tech Lead • CTO-track opportunities — Remote 🌏</b>
+</div>
+
+<!-- ============ FOOTER BANNER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:5865F2,100:1a1b27&height=120&section=footer" width="100%"/>
