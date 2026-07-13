@@ -87,16 +87,23 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=latifurrahmanlemon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4ff&icon_color=5865F2&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latifurrahmanlemon&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4ff&fire=5865F2&currStreakLabel=00d4ff" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=latifurrahmanlemon&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d4ff&fire=5865F2&currStreakLabel=00d4ff" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=latifurrahmanlemon&theme=tokyonight" width="95%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=latifurrahmanlemon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d4ff&langs_count=8" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=latifurrahmanlemon&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=latifurrahmanlemon&theme=tokyonight&utcOffset=6" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=latifurrahmanlemon&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=latifurrahmanlemon&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=latifurrahmanlemon&theme=tokyonight" height="180" />
 </div>
 
 <div align="center">
