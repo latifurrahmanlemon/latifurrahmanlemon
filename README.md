@@ -1,5 +1,5 @@
 <!-- ============ HEADER BANNER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:5865F2,100:00d4ff&height=210&section=header&text=Latifur%20Rahman&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20Engineer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:5865F2,100:00d4ff&height=210&section=header&text=Latifur%20Rahman&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=56&descSize=18" width="100%"/>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-> **Senior Backend Engineer** with **6+ years** of experience designing and shipping scalable, production-grade systems — currently a **Software Engineer at [BdREN](https://www.bdren.net.bd/)** (Bangladesh Research and Education Network), Dhaka 🇧🇩
+> **Senior FullStack Engineer** with **6+ years** of experience designing and shipping scalable, production-grade systems — currently a **Software Engineer at [BdREN](https://www.bdren.net.bd/)** (Bangladesh Research and Education Network), Dhaka 🇧🇩
 
 - ⚡ Architecting **large-scale, multi-platform SaaS systems** — Laravel backends, Next.js frontends, real-time Socket.IO services & Flutter mobile apps
 - 🤖 Shipped **production AI/LLM features** — intelligent chat assistants & AI-powered assessment systems
@@ -31,7 +31,7 @@
 - 📄 Published researcher — **2× IEEE conference papers** (STI 2020 & STI 2021)
 - 🏆 National & international **robotics + competitive programming** background
 - 🎯 Passionate about building products in **edtech, healthtech & agritech**
-- 💼 Open to **Senior Backend / Tech Lead / CTO-track** roles — Remote 🌍
+- 💼 Open to **Senior Full Stack / Tech Lead / CTO-track** roles — Remote 🌍
 
 <br/>
 
