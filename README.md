@@ -4,7 +4,7 @@
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
   <a href="https://latifur.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;6%2B+Years+of+Engineering+Excellence;Laravel+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+AWS;AI+%2F+LLM+Integration+in+Production;Tech+Lead+%7C+SaaS+Builder+%7C+Problem+Solver" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+%F0%9F%9A%80;6%2B+Years+of+Engineering+Excellence;Laravel+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+AWS;AI+%2F+LLM+Integration+in+Production;Tech+Lead+%7C+SaaS+Builder+%7C+Problem+Solver" alt="Typing Animation" />
   </a>
 </p>
 
@@ -156,7 +156,7 @@
 <br/>
 
 <div align="center">
-  <b>💼 Open to Senior Backend Engineer • Tech Lead • CTO-track opportunities — Remote 🌏</b>
+  <b>💼 Open to Senior Fullstack Engineer • Tech Lead • CTO-track opportunities — Remote 🌏</b>
 </div>
 
 <!-- ============ FOOTER BANNER ============ -->
