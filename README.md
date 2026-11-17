@@ -156,7 +156,7 @@
 <br/>
 
 <div align="center">
-  <b>💼 Open to Senior Fullstack Engineer • Tech Lead • CTO-track opportunities — Remote 🌏</b>
+  <b>💼 Open to Senior Fullstack Engineer • Tech Lead • CTO-track opportunities — Remote/Onsite 🌏</b>
 </div>
 
 <!-- ============ FOOTER BANNER ============ -->
